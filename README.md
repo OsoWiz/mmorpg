@@ -1,5 +1,5 @@
 # mmorpg
-This is a mmorpg school project written in c++ it doesn't have that much features, as it was basically put together in a bit over a month.
+This is a mmorpg school project written in c++. It doesn't have that much features, as it was basically put together in a bit over a month.
 It features 3D graphics done using low level OpenGL api and GLM maths library, with GLFW as a window creation tool and GLEW for fetching functions. 
 It also features online "play" using asio networking library. (Not done by me. This includes the whole server functionality)
 
