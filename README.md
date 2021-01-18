@@ -1,3 +1,6 @@
+#mmorpg
+simple tile clicking simulator... for now
+
 
 ##        ##  ##       ##      ###     ####   ####       ####
 #  #     # #  # #     # #    #     #   #   #  #   #    #    
@@ -12,7 +15,7 @@ This is a mmorpg school project written in c++. It doesn't have that much featur
 It features 3D graphics done using low level OpenGL api and GLM maths library, with GLFW as a window creation tool and GLEW for fetching functions. (These are required if one wishes to compile this.)
 It also features online "play" using asio networking library. (Not done by me. This includes the whole server functionality)
 
-I have done all of the graphics components and classes.
+I have done all of the graphics components and classes, including the mouse ray casting.
 
 ##### How does it work??  #######
 One can click a tile and move to that location using left click and holding the right click moves the camera. The character wont move, unless the server is on and the player is connected(can be done locally, of course)
